@@ -34,7 +34,7 @@ The data used in this project is located in the `Data/` directory. The repositor
 - **ChFinAnn Dataset:** [Download Here](https://github.com/dolphin-zs/Doc2EDAG)
 - **DuEE-fin Dataset:** [Download Here](https://aistudio.baidu.com/aistudio/competition/detail/65)
 - **RAMS Dataset:** [Download Here](https://nlp.jhu.edu/rams/)
-- **WikiEvents Dataset:** (Link to be added)
+- **WikiEvents Dataset:** [Download Here](https://github.com/raspberryice/gen-arg)
 
 ## Usage
 
@@ -51,6 +51,13 @@ For the DuEE-fin dataset:
 
 ```bash
 cd Data/DuEE
+python build_data.py
+```
+
+For WikiEvents  dataset:
+
+```bash
+cd Data/WikiEvents
 python build_data.py
 ```
 
