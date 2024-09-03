@@ -86,7 +86,3 @@ This project is built on the foundation of [Doc2EDAG](https://github.com/shun-zh
 ## 🔑 License
 
 This project is licensed under the MIT License.
-
----
-
-This version is more concise, consistent, and easier to follow.
