@@ -83,6 +83,6 @@ This project is built on the foundation of [Doc2EDAG](https://github.com/shun-zh
 2. [DocEE](https://github.com/Spico197/DocEE)
 3. [DuEE](https://github.com/zhoujx4/DuEE)
 
-## 🔑 License
+## License
 
 This project is licensed under the MIT License.
